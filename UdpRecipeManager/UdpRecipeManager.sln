@@ -1,0 +1,17 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeServer", "RecipeServer\RecipeServer.csproj", "{B8FD1D5C-946C-4727-9828-14C4E0ABCF20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecipeClient", "RecipeClient\RecipeClient.csproj", "{C90D341D-112F-40BB-B358-79FF9DDA75E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8FD1D5C-946C-4727-9828-14C4E0ABCF20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8FD1D5C-946C-4727-9828-14C4E0ABCF20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C90D341D-112F-40BB-B358-79FF9DDA75E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C90D341D-112F-40BB-B358-79FF9DDA75E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
